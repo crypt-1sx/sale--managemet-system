@@ -100,11 +100,15 @@ pyinstaller pos_system.spec
 
 | Dashboard | Sales Interface |
 |:---:|:---:|
-| ![Dashboard Placeholder](https://via.placeholder.com/400x250?text=Dashboard) | ![Sales Placeholder](https://via.placeholder.com/400x250?text=Sales+Interface) |
+| ![settings](<img width="1920" height="1080" alt="settings" src="https://github.com/user-attachments/assets/50cdde22-c78c-4882-be16-fabc5c2f67d2" />
+) | ![Point of Sale](<img width="1920" height="1080" alt="sale" src="https://github.com/user-attachments/assets/87338bdc-383b-4309-be12-151c74a220f4" />
+) |
 
 | Inventory | Analytics |
 |:---:|:---:|
-| ![Inventory Placeholder](https://via.placeholder.com/400x250?text=Inventory+Management) | ![Analytics Placeholder](https://via.placeholder.com/400x250?text=Data+Analytics) |
+| ![Credit/customer](<img width="1920" height="1080" alt="crdit" src="https://github.com/user-attachments/assets/973acbec-8de7-4647-95f2-1c2cc93e9ed9" />
+) | ![Analytics](<img width="1920" height="1080" alt="analycts" src="https://github.com/user-attachments/assets/36e18fd2-ee52-4f66-b0d6-bc2e8bc4410c" />
+) |
 
 ---
 
